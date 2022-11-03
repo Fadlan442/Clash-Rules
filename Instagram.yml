@@ -1,3 +1,5 @@
 payload:
-  - '+.instagram.com'
-  - '+.cdninstagram.com'
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,ig.me
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,instagram.c10r.facebook.com
